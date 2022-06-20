@@ -1,0 +1,284 @@
+*{
+margin: 0;
+padding: 0;
+}
+/*header-top-start*/
+img.logo-img {
+height: auto;
+width: 165px;
+}
+.header-top-int {
+border: 1px solid black !important;
+margin-left: 20px !important;
+padding: 5px 30px !important;
+}
+.header-top-btn {
+padding: 6px 20px !important;
+background: black !important;
+color: white !important;
+border: 1px solid black !important;
+}
+a.nav-link {
+font-weight: 600;
+color: #949494 !important;
+}
+.header-desq {
+color: #949494;
+padding: 0px 25px;
+}
+button.header-join {
+border: 1px solid #2c7ffc;
+padding: 0px 20px;
+background: #2c7ffc;
+color: white;
+border-radius: 15px;
+}
+/*header-top-end*/
+/* header-top-menu-start*/
+section.header-top-menu {
+border: 1px solid #f1f1f1;
+}
+.header-menu {
+font-size: 14px;
+padding: 5px 5px;
+}
+/*  header-top-menu-end */
+/* banner-prat-start*/
+h1.banner-Lifetime {
+font-size: 65px;
+text-align: center;
+color: #232323;
+font-weight: 650;
+margin-top: 100px;
+}
+h5.banner-Growing {
+text-align: center;
+margin-top: 33px;
+color: #a5a2a2;
+font-size: 17px;
+}
+button.banner-ACCESS-btn {
+border-radius: 10px;
+display: flex;
+margin: 0 auto;
+margin-top: 31px;
+padding: 8px 55px;
+background: #2c7ffc;
+border: 1px solid #2c7ffc;
+color: white;
+font-weight: 700;
+}
+.banner-Compatible {
+text-align: center;
+font-size: 15px;
+color: #949494;
+font-weight: 600;
+margin-top: 20px;
+margin-bottom: 50px;
+}
+/*      banner-prat-end */
+/*image-with-test-one-prat-start*/
+.test-one-That {
+font-size: 50px;
+font-weight: 700;
+margin-top: 100px;
+color: #1758ac;
+margin-bottom: 18px;
+}
+.test-one-Whether {
+color: #abaaaa;
+font-size: 20px;
+margin-bottom: 40px;
+font-weight: 600;
+}
+.full-mobile.test-one-educator {
+margin-bottom: 60px;
+}
+th {
+border: 1px solid #9c9c9c;
+text-align: center !important;
+padding: 12px 0px !important;
+color: #1758ac;
+}
+/*image-with-test-one-prat-end*/
+/*image-with-test-two-prat-start*/
+section.image-with-test-two {
+margin-top: 60px;
+}
+.test-two-Infographics {
+margin-top: 100px;
+font-size: 55px;
+font-weight: 700;
+color: #352e2e;
+margin-bottom: 30px;
+}
+.test-two-available {
+font-size: 20px;
+font-weight: 700;
+color: #adabab;
+}
+.test-two-compatible {
+margin-top: 55px;
+font-size: 14px;
+color: #aba6a6a6;
+font-weight: 800;
+margin-bottom: 100px;
+}
+/*image-with-test-two-prat-end*/
+/*image-with-test- three-prat-start*/
+.test-three-That {
+color: #5fc57b;
+font-size: 60px;
+margin-top: 100px;
+font-weight: 700;
+}
+p.test-three-assembled {
+color: #ffffff;
+margin-top: 30px;
+font-weight: 700;
+font-size: 20px;
+}
+.test-three-educator {
+margin-top: 50px;
+margin-bottom: 100px;
+}
+th {
+padding: 12px 68px  !important;
+}
+/*image-with-test- three-prat-end*/
+/*image-with-test- four-prat-start*/
+.test-four-Infographics {
+font-size: 50px;
+font-weight: 700;
+margin-top: 100px;
+color: #264c8a;
+}
+.test-four-available {
+font-size: 19px !important;
+font-weight: 700 !important;
+color: #c3c3c3 !important;
+margin-top: 30px !important;
+}
+table.test-four-educator {
+margin-bottom: 100px;
+margin-top: 40px;
+}
+/*image-with-test- four-prat-end*/
+/*image-with-test- five-prat-start*/
+h2.test-five-That {
+color: white;
+font-size: 55px;
+font-weight: 700;
+margin-top: 100px;
+}
+p.test-five-assembled {
+color: #ffffff;
+margin-top: 30px;
+font-weight: 700;
+font-size: 20px;
+margin-bottom: 100px;
+}
+/*image-with-test- five-prat-end*/
+/*image-with-test- six-prat-start*/
+h2.test-six-That {
+font-size: 50px !important;
+color: #2f2e41 !important;
+margin-top: 100px !important;
+font-weight: 700 !important;
+}
+p.test-six-Whether {
+font-size: 18px;
+font-weight: 700;
+color: #c3c3c3;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+table.full-mobile.test-six-educator {
+margin-bottom: 100px;
+}
+th {
+color: #2f2e41;
+border: 1px solid #ababab;
+}
+/*image-with-test- six-prat-end*/
+/*image-with-test- seven-prat-start*/
+h2.test-seven-That {
+margin-top: 100px;
+margin-bottom: 30px;
+font-size: 60px;
+font-weight: 700;
+color: white;
+}
+p.test-seven-Whether {
+font-size: 20px;
+font-weight: 700;
+margin-bottom: 35px;
+color: white;
+}
+table.full-mobile.test-seven-educator {
+margin-bottom: 100px;
+}
+/*image-with-test- seven-prat-end*/
+/*image-with-test- eight-prat-start*/
+h2.test-eight-That {
+    padding-top: 100px;
+
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: #0008ff;
+    margin-bottom: 30px;
+}
+p.test-eight-Whether {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 250px;
+    color: #411ecc;
+}
+
+
+
+/*image-with-test- eight-prat-end*/
+/*image-with-test- nine-prat-start*/
+h2.Perfect {
+  
+    display: flex;
+    margin: auto;
+    font-size: 50px;
+    margin-top: 100px;
+    font-weight: 700;
+    color: #7aff00;
+    margin-bottom: 50px;
+}
+h5.package {
+    font-size: 24px;
+    color: #00d0ff;
+    margin-bottom: 30px;
+}
+.clients{
+	font-size: 24px;
+    color: #00d0ff;
+    margin-bottom: 50px;
+}
+.Divided{
+font-size: 24px;
+    color: #00d0ff;
+
+}
+.Trusted{
+	font-size: 24px;
+    color: #00d0ff;
+}
+p.graphics {
+    font-size: 19px;
+    color: #18ec3c;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.infographics{
+	 font-size: 19px;
+    color: #18ec3c;
+    font-weight: 700;
+}
+/*image-with-test- nine-prat-end*/
